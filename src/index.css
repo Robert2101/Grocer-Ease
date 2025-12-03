@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
 @layer components {
   .sticky-sidebar {
     @apply h-fit sticky top-24;
